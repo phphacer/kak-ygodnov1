@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>YellowCircles</class>
+ <widget class="QWidget" name="YellowCircles">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>519</width>
+    <height>401</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Git и жёлтые окружности</string>
+  </property>
+  <widget class="QPushButton" name="toggleButton">
+   <property name="geometry">
+    <rect>
+     <x>319</x>
+     <y>370</y>
+     <width>191</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Запустить процесс рисования</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
